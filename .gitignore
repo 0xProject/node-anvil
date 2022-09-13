@@ -1,0 +1,13 @@
+native/target
+build/
+native/index.node
+native/artifacts.json
+lib/
+**/*~
+**/node_modules
+**/.DS_Store
+bin/
+
+deps
+binding.gyp
+target/
