@@ -2494,6 +2494,7 @@ dependencies = [
  "anvil-core",
  "anvil-rpc",
  "anyhow",
+ "futures",
  "neon",
  "once_cell",
  "parking_lot 0.12.1",
